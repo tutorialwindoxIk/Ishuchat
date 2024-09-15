@@ -9,9 +9,9 @@ API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = int(getenv("OWNER_ID", "7070591202"))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "tmm_support_chat")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "tmm_heroku_world")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "moh_maya_official")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/somueditingzone")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "https://t.me/somueditingzone")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "alone_somu6")
 
 # Random Start Images
 IMG = [
